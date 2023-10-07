@@ -1,0 +1,4 @@
+fastapi
+cv2
+deepface
+numpy
